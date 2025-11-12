@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/holdener-simulation-buffer/static/css/main.934d208b.css",
+    "main.js": "/holdener-simulation-buffer/static/js/main.078a1c3c.js",
+    "static/js/453.03d312ab.chunk.js": "/holdener-simulation-buffer/static/js/453.03d312ab.chunk.js",
+    "static/media/arrow.png": "/holdener-simulation-buffer/static/media/arrow.5e737598faff543a14f7.png",
+    "static/media/logo.svg": "/holdener-simulation-buffer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/holdener-simulation-buffer/index.html",
+    "main.934d208b.css.map": "/holdener-simulation-buffer/static/css/main.934d208b.css.map",
+    "main.078a1c3c.js.map": "/holdener-simulation-buffer/static/js/main.078a1c3c.js.map",
+    "453.03d312ab.chunk.js.map": "/holdener-simulation-buffer/static/js/453.03d312ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934d208b.css",
+    "static/js/main.078a1c3c.js"
+  ]
+}
